@@ -1,0 +1,17 @@
+[error] -- [E008] Not Found Error: C:\git\ScalaRepo\src\test\scala\calculatorTests\CalculatorTest.scala:13:22 
+[error] 13 |    assert(calculator.multiply(a, b) == 0)
+[error]    |           ^^^^^^^^^^^^^^^^^^^
+[error]    |           value multiply is not a member of object tests.Calculator
+[error] -- [E008] Not Found Error: C:\git\ScalaRepo\src\test\scala\calculatorTests\CalculatorTest.scala:16:22 
+[error] 16 |    assert(calculator.multiply(a, b) == 0)
+[error]    |           ^^^^^^^^^^^^^^^^^^^
+[error]    |           value multiply is not a member of object tests.Calculator
+[error] -- [E008] Not Found Error: C:\git\ScalaRepo\src\test\scala\calculatorTests\CalculatorTest.scala:19:22 
+[error] 19 |    assert(calculator.multiply(a, b) == 0)
+[error]    |           ^^^^^^^^^^^^^^^^^^^
+[error]    |           value multiply is not a member of object tests.Calculator
+[error] -- [E008] Not Found Error: C:\git\ScalaRepo\src\test\scala\calculatorTests\CalculatorTest.scala:25:49 
+[error] 25 |    assertThrows[ArithmeticException](calculator.divide(a, b))
+[error]    |                                      ^^^^^^^^^^^^^^^^^
+[error]    |                 value divide is not a member of object tests.Calculator
+[error] four errors found
